@@ -1,0 +1,2 @@
+# sky-travel
+sky-travel est un projet se basant sur le développement d'un site qui porte sur l'organisation des voyages touristiques et les réservations dans les hotels avec des choix personnalisés ainsi que la location des voitures et toute information sur les destinations,les vols,la météo,ainsi de suite ,en prenant soin de la forme de l'interface réservé à chaque type d'utilisateur(administrateur-agent-client inscrit-client non inscrit)
